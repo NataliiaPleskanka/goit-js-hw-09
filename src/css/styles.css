@@ -10,7 +10,7 @@
 }
 
 .gallery {
-  width: 1128px;
+  max-width: 1200px;
   margin: auto;
   display: flex;
   flex-direction: row;
